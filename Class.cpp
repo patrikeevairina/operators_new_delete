@@ -1,4 +1,4 @@
-#include "class.h"
+#include "Сlass.h"
 
 void* Class::operator new(size_t size)
 {
