@@ -1,6 +1,6 @@
 #include <iostream>
 #include <Allocator.h>
-#include <class.h>
+#include <Сlass.h>
 
 using namespace std;
 
